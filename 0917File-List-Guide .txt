@@ -1,0 +1,15 @@
+PrimeTrees
+
+The materials for the discovery about Primes
+
+Reference Code: /Programs
+BigTreeNet.java 
+FirstTreeNet.java
+
+Pictures: /Pictures
+Prime-Structure-Draft
+
+Excel Details: /ExcelSheets
+FirstJianStructureTOP20.xlsx
+
+
