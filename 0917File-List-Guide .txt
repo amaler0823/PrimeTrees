@@ -5,11 +5,14 @@ The materials for the discovery about Primes
 Reference Code: /Programs
 BigTreeNet.java 
 FirstTreeNet.java
+Steps-Codes
 
 Pictures: /Pictures
 Prime-Structure-Draft
+Steps-Charts
 
 Excel Details: /ExcelSheets
 FirstJianStructureTOP20.xlsx
 
-
+Steps-Info
+Steps(also Prime Chess) Result in Diverse Tree Daos
