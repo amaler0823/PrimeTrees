@@ -2,6 +2,10 @@ PrimeTrees
 
 The materials for the discovery about Primes
 
+Submission: /Milestones╰(°▽°)╯Essays
+A-little-bit-Discovery-of-Prime-Numbers-2021.pdf  08/09/2021
+An-Extended-Study- of-Prime-Numbers-2022.pdf  06/04/2022
+
 Reference Code: /Programs
 BigTreeNet.java 
 FirstTreeNet.java
