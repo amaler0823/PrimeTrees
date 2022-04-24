@@ -1,0 +1,13 @@
+0422 cos the difference of line size, △L, is not 1 anymore in the polygonal models since Square, such that there should be another potential style of RealZhong score, namely JZ, formed by the "jumping" composite numbers. In general, they are also RealZhong scores.
+
+samples are, for {1,...5*10⁵},
+in Pentagonal model:
+y = 1.5x2 - 0.5x - 15, x>=6
+
+in Heptagonal model:
+y = 2.5x2 - 1.5x - 55, x>=12
+
+in Nonagonal model:
+y = 3.5x2 - 7.5x + 1, x>=3
+
+Now, a more complete, sawtooth, H(x) can be observed with these JZs.
