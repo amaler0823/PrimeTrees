@@ -4,5 +4,5 @@
 @@@Accessory materials for the Primes study✂🛠🗝<br>
 @@@Maybe a 🔎Mirror🔍📐💡🔦 for what Riemann's hints🌗<br>
 (●ˇ∀ˇ●) zhi-shu🌲🎄 の layouts🏁🏳‍🌈🥓✌<br>
-¿¿¿layouts echo distribution😵，layouts echo f(primes)🐣???<br>
+¿¿¿layouts echo distribution😵，layouts echo f(x)=primes🐣???<br>
 🎅🎅🎅🎅🎅🎅🎅🎅
